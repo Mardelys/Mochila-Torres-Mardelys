@@ -1,0 +1,6 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+
+
+Un lenguaje de programación puede ser utilizado en algunos sistemas operativos y no en otros debido a cómo fue creado, las cosas que necesita para funcionar y a qué sistemas operativos le prestan más atención los desarrolladores.
+También depende de las reglas y políticas de cada sistema operativo. Algunos lenguajes de programación simplemente no se llevan bien con ciertos sistemas operativos.
