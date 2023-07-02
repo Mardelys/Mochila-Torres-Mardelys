@@ -10,4 +10,7 @@ También depende de las reglas y políticas de cada sistema operativo. Algunos l
 
 VirtualBox es un programa que te permite crear y ejecutar máquinas virtuales en tu computadora. Funciona como una especie de "caja virtual" en la que puedes tener otros sistemas operativos y programas corriendo sin afectar tu sistema principal.
 
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
 
+Si tienes más de una máquina virtual instalada y una se vuelve lenta o se bloquea, puede ser debido a una falta de recursos en tu sistema. Cada máquina virtual utiliza memoria RAM, capacidad de procesamiento y recursos de almacenamiento. Si una máquina virtual está consumiendo muchos recursos, puede causar que las otras máquinas virtuales se vuelvan lentas o inestables. Es importante asegurarte de que tu sistema tenga suficientes recursos para ejecutar todas las máquinas virtuales de manera óptima.
