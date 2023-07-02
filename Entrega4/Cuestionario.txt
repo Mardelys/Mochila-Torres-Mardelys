@@ -4,3 +4,10 @@ sistemas operativos y en otros no?.
 
 Un lenguaje de programación puede ser utilizado en algunos sistemas operativos y no en otros debido a cómo fue creado, las cosas que necesita para funcionar y a qué sistemas operativos le prestan más atención los desarrolladores.
 También depende de las reglas y políticas de cada sistema operativo. Algunos lenguajes de programación simplemente no se llevan bien con ciertos sistemas operativos.
+
+
+¿Qué tipo de máquina virtual es virtualBox?.
+
+VirtualBox es un programa que te permite crear y ejecutar máquinas virtuales en tu computadora. Funciona como una especie de "caja virtual" en la que puedes tener otros sistemas operativos y programas corriendo sin afectar tu sistema principal.
+
+
